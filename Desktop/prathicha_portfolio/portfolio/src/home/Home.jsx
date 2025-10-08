@@ -499,8 +499,7 @@ const projects = [
               LinkedIn
             </a>
             <a
-              href="/ManikandanR_CV.pdf"
-              download
+              href="https://drive.google.com/uc?export=download&id=1HMUbSPeTCigyGjck7kqZeGFE1FyzlCUS"
               className="px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-500 rounded text-black font-semibold"
             >
               Download CV
